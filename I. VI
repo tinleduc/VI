@@ -1,5 +1,15 @@
 The vi text Editor
 
+  $ vi [filename]
+  
+  // filebname is opional, except a slash(/)
+  // include spaces in file name by typing a backslad(\) before the space
+  
+  $ vi letter             // if you already in the /home/john directory
+  $ vi /home/john/letter  // if you are in another directory
+  
+  
+
 Simple Editing
 
 Moving Around in a Hurry
@@ -13,4 +23,3 @@ Global Replacement
 Advanced Editing
 
 Introduction to the vi Clones
-
