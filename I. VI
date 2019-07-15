@@ -1,4 +1,4 @@
-The vi text Editor
+I/ The vi text Editor
 
   $ vi [filename]
   
@@ -10,17 +10,114 @@ The vi text Editor
   
   
 
-Simple Editing
+II/ Simple Editing
 
-Moving Around in a Hurry
+III/ Moving Around in a Hurry
 
-Beyond the Basic
+IV/ Beyond the Basic
 
-Introducting the ex Editor
+V/ Introducting the ex Editor
+  ex Command
+  
+  Editing with ex
+      Line Addresses
+      
+      Defining a Range of lines
+      
+      Line Addressing Symbols
+      
+      Search Patterns
+      
+      Redefining the Current Line Position
+      
+      Global Searches
+      
+      Combining ex Commands
+      
+  Saving Exiting Files
+      Renaming the Buffer
+      
+      Saving Part a File
+      
+      Appending to a Saved File
+  
+  Copying a file Another file 
+  
+  Editing Mutiple Files
+      Invoking vi on Multiple Files
+      
+      Using the Argument List
+      
+      Calling in News Files
+      
+      Switching Files from vi 
+      
+      Edit Between Files
+      
 
-Global Replacement
+VI/ Global Replacement
+   Confirming Substitutions
+   
+   Context-Sensitive Replacements
+   
+   Pattern-Matching Rules
+      Metecharacters Used in Search Patterns
+      
+      POSIX Bracket Expressions
+      
+      MetaCharacters Used in Replacement Strings
+      
+      More Substitution Tricks
+      
+   
+   Pattern-Matching Examples
+   
+    Search for general Class of Words
+    
+    Block move by Patterns
+    
+    More Examples
+    
+   
+   A Final Look at Pattern Matching
+      Deleting an Unknown block of Text
+      Switching Items In a Textual Databse
+      
+      Using :g to Repeat a Command
+      
+      Collecting Lines
+    
+VII/ Advanced Editing
+  
+  Customizing vi
+  
+  Executing Unix Commands
+  
+  Saving Commands
+  
+  Using ex Scripts
+  
+  Editing Program Source Code
+  
 
-Advanced Editing
-e
+VIII/ Introduction to the vi Clones
+  And These Are My Brothers Darell Darell and Darell
+  
+  Multiwindow Editing
+  
+  GUI Interfaces
+  
+  Extended Regex
+  
+  Enhanced Tags
+  
+  Improved Facitilites
+  
+  Programming Assistance
+  
+  Editor Comparision Summary
+  
+  Nothing like the Original 
+  
+  A look Ahead
 
-Introduction to the vi Clones
